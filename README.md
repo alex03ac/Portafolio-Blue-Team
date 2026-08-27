@@ -1,8 +1,8 @@
-# Portfolio Blue Team
+# Portafolio Blue Team
 
 ![Status](https://img.shields.io/badge/Status-Active_Project-success)
 ![Focus](https://img.shields.io/badge/Focus-Blue_Team_%7C_SOC_%7C_Threat_Detection-blue)
-![Goal](https://img.shields.io/badge/Goal-10+_Labs-orange)
+![Goal](https://img.shields.io/badge/Goal-5+_Labs-orange)
 
 Bienvenido a mi repositorio técnico de seguridad defensiva.
 
