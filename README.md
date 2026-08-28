@@ -10,11 +10,10 @@ Este repositorio funciona como un **laboratorio vivo y en constante evolución**
 
 La dificultad de cada reto de plataforma refleja la calificación oficial de origen:
 
-- 🔵 **Very Easy**
-- 🟢 **Easy**
+- 🟢 **Low**
 - 🟡 **Medium**
-- 🔴 **Hard**
-- 🟣 **Insane**
+- 🟠 **High**
+- 🔴 **Critical**
 
 ## Aviso
 
@@ -24,9 +23,11 @@ Todas las prácticas se realizaron en entornos de simulación diseñados para en
 
 Los casos están divididos por sala/plataforma de origen.
 
-### TryHackMe
+### LetsDefend
 
-Writeups de práctica personal en TryHackMe, organizados por dificultad.
+| # | EventID | Alerta | Categoría | Severidad | Veredicto | Fecha |
+|---|---------|--------|-----------|-----------|-----------|-------|
+| 01 | [303](LetsDefend/303/303.md) | SOC325 - Unauthorized Cloud Region Access Attempt Detected | Web Attack | 🟢 Low | ✅ True Positive | 2024-09-24 |
 
 
 ---
