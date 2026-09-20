@@ -30,6 +30,13 @@ Los casos están divididos por sala/plataforma de origen.
 | 01 | [303](LetsDefend/303/303.md) | SOC325 - Unauthorized Cloud Region Access Attempt Detected | Web Attack | 🟢 Low | ✅ True Positive | 2024-09-24 |
 
 
+### TryHackMe
+
+| # | Room | Plataforma | Categoría | Dificultad | Descripción | Herramientas | Fecha |
+|---|------|------------|-----------|------------|-------------|--------------|-------|
+| 01 | [Investigating with Splunk](TryHackMe/InvestigatingWithSplunk/INVESTIGATING_WITH_SPLUNK-THM.pdf) | TryHackMe | DFIR / Log Analysis | 🟡 Medium | Análisis forense de un host Windows comprometido donde un atacante creó un backdoor. Se rastrean sus acciones mediante eventos de Windows y scripts de PowerShell ofuscados. | Splunk, CyberChef | 2026-09-20 |
+
+
 ---
 
 *Este repositorio se actualiza continuamente con nuevos informes y writeups técnicos de seguridad defensiva.*# Portafolio-Blue-Team
