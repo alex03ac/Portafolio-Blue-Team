@@ -34,7 +34,6 @@ Los casos están divididos por sala/plataforma de origen.
 
 | # | Room | Plataforma | Categoría | Dificultad | Descripción | Herramientas | Fecha |
 |---|------|------------|-----------|------------|-------------|--------------|-------|
-
 | 01 | [Payload](TryHackMe/Payload/PAYLOAD_THM.pdf) | TryHackMe | AI Supply Chain | 🟢 Easy | Investigación de un modelo de ML malicioso (pickle) que estuvo 21 días en producción y enviaba datos a un servidor externo. | Análisis de logs, Python | 2026-09-17 |
 | 02 | [Snapped Phish-ing Line](TryHackMe/SnappedPhishIngLine/Snapped_Phish-ing_Line_THM.pdf) | TryHackMe | Phishing Analysis | 🟢 Easy | Análisis de correos y URLs de una campaña de phishing real, incluyendo un phishing kit, para exponer su alcance. | Terminal Linux, CyberChef | 2026-09-18 |
 | 03 | [Investigating with Splunk](TryHackMe/InvestigatingWithSplunk/INVESTIGATING_WITH_SPLUNK-THM.pdf) | TryHackMe | DFIR / Log Analysis | 🟡 Medium | Análisis forense de un host Windows comprometido donde un atacante creó un backdoor. Se rastrean sus acciones mediante eventos de Windows y scripts de PowerShell ofuscados. | Splunk, CyberChef | 2026-09-20 |
